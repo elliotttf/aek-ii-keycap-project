@@ -14,16 +14,6 @@ it now.
 
 Read more at [AEKII Wiki](http://deskthority.net/wiki/Apple_Extended_Keyboard_II)
 
-![](images/image10.jpeg)
-
-### The Layout
-
-<img src="https://rawgit.com/ocodo/Keycaps-Inspired-by-Apple-Extended-Keyboard-II/master/svg/apple-wasd-layout.svg"/>
-
-##### Closeup detail
-
-![](images/layout-closeup.png)
-
 ## Notes
 
 My keyboard layout is geared towards Emacs use, and the fn key is
@@ -77,32 +67,6 @@ The layout took a little over 4 hours to put complete.
 
 After ordering/uploading WASD turned it around and shipped it to
 Singapore (from CA USA) in about a week.  The results are impressive.
-
-#### Finished keyboard
-
-Look Ma'! No Caps Lock.
-
-![](images/images11.jpg)
-
-![](images/image1.jpeg)
-
-![](images/image2.jpeg)
-
-![](images/image3.jpeg)
-
-![](images/image4.jpeg)
-
-![](images/image5.jpeg)
-
-![](images/image6.jpeg)
-
-![](images/image7.jpeg)
-
-![](images/image8.jpeg)
-
-![](images/black-white-1.jpg)
-
-![](images/black-white-2.jpg)
 
 ## Licence
 
