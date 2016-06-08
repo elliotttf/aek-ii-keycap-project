@@ -79,17 +79,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710682"
-     inkscape:cx="503.05435"
-     inkscape:cy="103.72824"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="691.46873"
+     inkscape:cy="99.426822"
      inkscape:document-units="px"
      inkscape:current-layer="layer12"
      showgrid="false"
      units="in"
      inkscape:window-width="1436"
      inkscape:window-height="855"
-     inkscape:window-x="1"
-     inkscape:window-y="0"
+     inkscape:window-x="5"
+     inkscape:window-y="23"
      inkscape:window-maximized="0"
      inkscape:snap-global="false"
      inkscape:snap-object-midpoints="true"
@@ -3530,6 +3530,29 @@
        d="m 1837.2515,481.56123 10.501,-10.50953 10.5098,10.50953 -10.5098,10.50096 -10.501,-10.50096 z"
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path20660" />
+    <image
+       y="440.13727"
+       x="894.05994"
+       id="image9065"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD0AAAAuCAYAAACbIBHcAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI
+WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH4AYGFioyz6xZNAAAAoVJREFUaN7tmrFqG0EQhv9JrdbF
+dWks2cRggiCkSIzAVZoL6d2ldEjlyq9wfoQLpEx1AfeuZEwICSGQQKI8gLtU7sfNGTbDSjuzd2ty
+0i4caE97o/k0u//srETMjE1rD7CBLUNn6AydoTN0hs7QawZNRAURsXNV7f0pEdXivZqISqXdY/Hs
+tL1feuwuiKgiosIMwMzmC8AMADvXEYBK3JNXpbArbRQAmoBdBjA2+R8JfSw+dK5wjAHMAnabSLv1
+fUD7vv25CwVg6nG6Dtj1ATXCbgGgluPuA9oHPPKMG2mdAzDWLgmL3V6glzhXaGfFinFH8osM+LGI
+hY5R7x3Rf8PM1z1kkn3RrwLjt53XH1OnrD3Rb3pKn09FVjlflTLFrS+poV84ry8VUd4KRYSIRgCe
+GSI3Ef0fqaFd5z4Yx/9VQlwEbD4S/V/JoO92SE77aRz/TTO1AXwKuHIolsIiZaR3jWtpVwnzWPR/
+B+y+ihWxGGhXYf8w801g/ExE5OuScQdCJ25WzJ5xFxGLgX5pFI/XChErRPoJTW2ZMq+SQbcKu60V
+GyKaKVObFLHvAVeeG5dCp0hPjLbfKhVZKvFnYz6/TgktFfZhQLX/EZsVzlmV2E2B71IfIhzK9d1O
+eZ/QSHF534cSG1JgP4cIy+rYu2KjrXxKX2loKF5OjXX8NKpKVAIX4sMWyuI+VIGVxkOGOrayiqmy
+pIidADgLPHMJYBIQmj2jEh8I+0g2vQGc+s6k2kg1nilfKu3OtZHzHBxUsZEmze/TRNS4gsPMtAlH
+wJ32uoOD9ux1L9YeGsATSzm5LtD7Xfe6Q4TuvNcdInTnve6goHvb6/5njfL/yDJ0hs7QGXqA7RY1
+fIiphO9OeQAAAABJRU5ErkJggg==
+"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="16.000002"
+       width="18.750004" />
   </g>
   <g
      inkscape:groupmode="layer"
